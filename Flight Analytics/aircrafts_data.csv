@@ -1,0 +1,529 @@
+aircraft_id,registration,model,manufacturer,icao_type_code,owner
+1,VT-TQG,Airbus A320 NEO,Airbus,A320,Air India
+2,VT-SGG,Boeing 737-800,Boeing,737-800,SpiceJet
+3,VT-IJW,Airbus A320 NEO,Airbus,A320,IndiGo
+4,VT-RTW,Airbus A320 NEO,Airbus,A320,Air India
+5,VT-IIR,Airbus A320 NEO,Airbus,A320,IndiGo
+6,9H-SLF,Airbus A320,Airbus,A320,IndiGo
+7,VT-IWT,Airbus A320,Airbus,A320,IndiGo
+8,VT-RTL,Airbus A320 NEO,Airbus,A320,Air India
+9,VT-ILJ,Airbus A321 NEO,Airbus,A321,IndiGo
+10,VT-TQL,Airbus A320 NEO,Airbus,A320,Air India
+11,VT-PPO,Airbus A321,Airbus,A321,Air India
+12,VT-IAS,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+13,VT-TNV,Airbus A320 NEO,Airbus,A320,Vistara
+14,VT-HKG,Airbus A320,Airbus,A320,Air India Express
+15,VT-PPW,Airbus A321,Airbus,A321,Air India
+16,VT-ICC,Airbus A321 NEO,Airbus,A321,IndiGo
+17,A6-BLC,Boeing 787-9,Boeing,787-9,Etihad
+18,VT-KOC,Airbus A320,Airbus,A320,Air India Express
+19,VT-ILG,Airbus A321 NEO,Airbus,A321,IndiGo
+20,VT-MXC,Boeing 737 MAX 8,Boeing,737,SpiceJet
+21,VT-TVD,Airbus A321 NEO,Airbus,A321,Air India
+22,VT-RTX,Airbus A320 NEO,Airbus,A320,Air India
+23,VT-ATV,Airbus A320 NEO,Airbus,A320,Air India
+24,VT-NCE,Airbus A320,Airbus,A320,IndiGo
+25,VT-SLC,Boeing 737-900,Boeing,737-900,SpiceJet
+26,VT-TNS,Airbus A320 NEO,Airbus,A320,Air India
+27,VT-TVG,Airbus A321 NEO,Airbus,A321,Air India
+28,9V-SKZ,Airbus A380-800,Airbus,A380-800,Singapore
+29,VT-TNI,Airbus A320 NEO,Airbus,A320,Air India
+30,VT-GWH,Airbus A320,Airbus,A320,Air India Express
+31,VT-ATB,Airbus A320,Airbus,A320,Air India Express
+32,VT-YBC,Boeing 737,Boeing,737,Starlight Airline
+33,VT-ANQ,Boeing 787-8,Boeing,787-8,Air India
+34,C-FIUF,Boeing 777-200,Boeing,777-200,Air Canada
+35,VT-PPX,Airbus A321,Airbus,A321,Air India
+36,VT-IWQ,Airbus A320,Airbus,A320,IndiGo
+37,B-KQT,Boeing 777-300ER,Boeing,777-300ER,Cathay Pacific
+38,VT-TSH,Boeing 787-9,Boeing,787-9,Air India
+39,VT-TNH,Airbus A320 NEO,Airbus,A320,Air India
+40,HS-TJV,Boeing 777-200,Boeing,777-200,Thai  International
+41,9M-LNC,Boeing 737-800,Boeing,737-800,Malindo Air
+42,N839AA,Boeing 787-9,Boeing,787-9,American
+43,N29971,Boeing 787-9,Boeing,787-9,United
+44,VT-SYJ,Boeing 737-800,Boeing,737-800,SpiceJet
+45,VT-TQC,Airbus A320 NEO,Airbus,A320,Air India
+46,9M-MTX,Airbus A330-200,Airbus,A330-200,Malaysia
+47,VN-A869,Boeing 787-9,Boeing,787-9,Vietnam
+48,VT-EXD,Airbus A320,Airbus,A320,Air India Express
+49,C-FVLQ,Boeing 787-9,Boeing,787-9,Air Canada
+50,9M-XBE,Airbus A330-300,Airbus,A330-300,AirAsia X
+51,HB-JHJ,Airbus A330,Airbus,A330,SWISS
+52,VT-ATD,Airbus A320 NEO,Airbus,A320,Air India Express
+53,VT-ANA,Boeing 787-8,Boeing,787-8,Air India
+54,F-GSPJ,Boeing 777,Boeing,777,Air France
+55,VT-ANS,Boeing 787-8,Boeing,787-8,Air India
+56,VN-A528,Airbus A321 NEO,Airbus,A321,VietJetAir
+57,D-AIMK,Airbus A380,Airbus,A380,Lufthansa
+58,B-LQH,Boeing 777-300ER,Boeing,777-300ER,Cathay Pacific
+59,G-ZBJJ,Boeing 787-8,Boeing,787-8,British
+60,VT-EXN,Airbus A321 (Sharklets),Airbus,A321,Air India
+61,VT-JRI,Airbus A350-900,Airbus,A350-900,Air India
+62,VT-EXU,Airbus A320 (Sharklets),Airbus,A320,Air India
+63,VT-ANV,Boeing 787-8,Boeing,787-8,Air India
+64,VT-ANC,Boeing 787-8,Boeing,787-8,Air India
+65,OK-TVR,Boeing 737-800,Boeing,737-800,SpiceJet
+66,VT-JRB,Airbus A350-900,Airbus,A350-900,Air India
+67,D-AIHW,Airbus A340-600,Airbus,A340-600,Lufthansa
+68,EI-HJP,Airbus A330,Airbus,A330,ITA
+69,VT-JRA,Airbus A350-900,Airbus,A350-900,Air India
+70,G-VDOT,Airbus A350-1000,Airbus,A350-1000,Virgin Atlantic
+71,VT-TQQ,Airbus A320 NEO,Airbus,A320,Air India
+72,VT-AEI,Boeing 777-200,Boeing,777-200,Air India
+73,VT-ALU,Boeing 777-300,Boeing,777-300,Air India
+74,HS-TJT,Boeing 777-200,Boeing,777-200,Thai  International
+75,PH-BKH,Boeing 787-10,Boeing,787-10,KLM
+76,VT-EDD,Airbus A320,Airbus,A320,Air India
+77,VT-IQK,Airbus A320 NEO,Airbus,A320,IndiGo
+78,VT-ILO,Airbus A321 NEO,Airbus,A321,IndiGo
+79,VT-PPJ,Airbus A321,Airbus,A321,Air India
+80,VT-ILB,Airbus A321 NEO,Airbus,A321,IndiGo
+81,VT-PPM,Airbus A321,Airbus,A321,Air India
+82,VT-CIN,Airbus A320,Airbus,A320,Air India
+83,VT-SCH,Airbus A319,Airbus,A319,Air India
+84,VT-TNM,Airbus A320 NEO,Airbus,A320,Air India
+85,VT-TSD,Boeing 787-9,Boeing,787-9,Air India
+86,VT-ALS,Boeing 777-300,Boeing,777-300,Air India
+87,VT-ALM,Boeing 777-300,Boeing,777-300,Air India
+88,A6-BLD,Boeing 787-9,Boeing,787-9,Etihad
+89,VT-IUJ,Airbus A321 NEO,Airbus,A321,IndiGo
+90,VT-EXG,Airbus A320 (Sharklets),Airbus,A320,Air India
+91,VT-NAC,Boeing 787-8,Boeing,787-8,Air India
+92,VT-NCJ,Airbus A320,Airbus,A320,IndiGo
+93,VT-TNK,Airbus A320 NEO,Airbus,A320,Air India
+94,A9C-NH,Airbus A321 NEO,Airbus,A321,Gulf Air
+95,VT-TNJ,Airbus A320 NEO,Airbus,A320,Air India
+96,VT-ILQ,Airbus A321 NEO,Airbus,A321,IndiGo
+97,4R-ABL,Airbus A320,Airbus,A320,SriLankan
+98,VT-IZB,Airbus A320 NEO,Airbus,A320,IndiGo
+99,VT-IJX,Airbus A320 NEO,Airbus,A320,IndiGo
+100,VT-TVB,Airbus A321 NEO,Airbus,A321,Air India
+101,VT-TNF,Airbus A320 NEO,Airbus,A320,Air India
+102,VT-CIF,Airbus A321 (Sharklets),Airbus,A321,Air India
+103,VT-IJR,Airbus A320 NEO,Airbus,A320,IndiGo
+104,VT-JRE,Airbus A350-900,Airbus,A350-900,Air India
+105,OK-TVL,Boeing 737-800,Boeing,737-800,SpiceJet
+106,VT-TQB,Airbus A320 NEO,Airbus,A320,Air India
+107,VT-ICH,Airbus A320,Airbus,A320,IndiGo
+108,VT-TQF,Airbus A320 NEO,Airbus,A320,Air India
+109,VT-ISS,Airbus A320 NEO,Airbus,A320,IndiGo
+110,VT-ILS,Airbus A321 NEO,Airbus,A321,IndiGo
+111,EW-527PA,Boeing 737,Boeing,737,Belavia
+112,VT-TVE,Airbus A320 NEO,Airbus,A320,Air India
+113,VT-ILZ,Airbus A321 NEO,Airbus,A321,IndiGo
+114,OH-LTU,Airbus A330-300,Airbus,A330-300,Finnair
+115,LN-FNC,Boeing 787-9,Boeing,787-9,IndiGo
+116,VT-TVI,Airbus A321,Airbus,A321,Air India
+117,VT-ILD,Airbus A320,Airbus,A320,IndiGo
+118,VT-IUH,Airbus A320,Airbus,A320,IndiGo
+119,4L-MWB,Boeing 777-200,Boeing,777-200,Myway
+120,VT-RTK,Airbus A320 NEO,Airbus,A320,Air India
+121,VT-TNC,Airbus A320 NEO,Airbus,A320,Air India
+122,VT-TYC,Airbus A320 NEO,Airbus,A320,Air India
+123,VT-PPT,Airbus A321,Airbus,A321,Air India
+124,VT-TVJ,Airbus A321,Airbus,A321,Air India
+125,VT-TNW,Airbus A320 NEO,Airbus,A320,Air India
+126,VT-ANX,Boeing 787-8,Boeing,787-8,Air India
+127,VT-NCC,Airbus A320,Airbus,A320,IndiGo
+128,VT-IUP,Airbus A320,Airbus,A320,IndiGo
+129,VT-CIQ,Airbus A321,Airbus,A321,Air India
+130,VT-EDC,Airbus A320 NEO,Airbus,A320,Air India
+131,VT-PPV,Airbus A321,Airbus,A321,Air India
+132,VT-ITN,Airbus A320 NEO,Airbus,A320,IndiGo
+133,VT-IMU,Airbus A320,Airbus,A320,IndiGo
+134,VT-ANI,Boeing 787-8,Boeing,787-8,Air India
+135,VT-NCD,Airbus A320,Airbus,A320,IndiGo
+136,VT-CIG,Airbus A320 NEO,Airbus,A320,Air India
+137,VT-SLA,Boeing 737-700,Boeing,737-700,SpiceJet
+138,VT-MLE,Airbus A320,Airbus,A320,Air India Express
+139,VT-CIP,Airbus A320 NEO,Airbus,A320,Air India
+140,VT-ILP,Airbus A320,Airbus,A320,IndiGo
+141,VT-ALH,Boeing 777-200LR,Boeing,777-200LR,Air India
+142,SP-LSB,Boeing 787-8,Boeing,787-8,LOT - Polish
+143,VT-AMD,Airbus A320,Airbus,A320,Air India Express
+144,VT-ANJ,Boeing 787-8,Boeing,787-8,Air India
+145,VT-ISO,Airbus A320 NEO,Airbus,A320,IndiGo
+146,VT-EXP,Airbus A320 NEO,Airbus,A320,Air India
+147,TC-LKF,Boeing 777-300ER,Boeing,777-300ER,IndiGo
+148,VT-JRT,Airbus A320,Airbus,A320,Air India Express
+149,9V-SCV,Boeing 787,Boeing,787,Singapore
+150,VT-ANM,Boeing 787-8,Boeing,787-8,Air India
+151,VT-VNS,Airbus A320,Airbus,A320,Air India Express
+152,VT-TNU,Airbus A320 NEO,Airbus,A320,Air India
+153,VT-YAT,Boeing 737,Boeing,737,Starlight Airline
+154,A6-EIW,Airbus A320,Airbus,A320,Etihad
+155,ET-AYC,Boeing 787-9,Boeing,787-9,Ethiopian
+156,VT-TZD,Airbus A320 NEO,Airbus,A320,Air India
+157,VT-IIP,Airbus A320 NEO,Airbus,A320,IndiGo
+158,VT-IUV,Airbus A321 NEO,Airbus,A321,IndiGo
+159,VT-TNP,Airbus A320 NEO,Airbus,A320,Air India
+160,VT-SGV,Boeing 737-800,Boeing,737-800,SpiceJet
+161,VT-ANT,Boeing 787-8,Boeing,787-8,Air India
+162,VT-TVH,Airbus A321 NEO,Airbus,A321,Air India
+163,VT-EXL,Airbus A320 (Sharklets),Airbus,A320,Air India
+164,VT-ICY,Airbus A320,Airbus,A320,IndiGo
+165,VT-TNY,Airbus A320 NEO,Airbus,A320,Air India
+166,VT-ILU,Airbus A321 NEO,Airbus,A321,IndiGo
+167,VT-TQR,Airbus A320 NEO,Airbus,A320,Air India
+168,VT-EXI,Airbus A320 NEO,Airbus,A320,Air India
+169,VT-BWR,Boeing 737,Boeing,737,Air India Express
+170,A9C-AC,Airbus A320,Airbus,A320,Gulf Air
+171,VT-IMD,Airbus A320,Airbus,A320,IndiGo
+172,VT-IJG,Airbus A320 NEO,Airbus,A320,IndiGo
+173,VT-IFI,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+174,B-KQY,Boeing 777,Boeing,777,Cathay Pacific
+175,VT-YAE,Boeing 737,Boeing,737,Starlight Airline
+176,VT-TQE,Airbus A320 NEO,Airbus,A320,Air India
+177,VT-PPU,Airbus A321,Airbus,A321,Air India
+178,VT-ISK,Airbus A320 NEO,Airbus,A320,IndiGo
+179,A6-BMF,Boeing 787-10,Boeing,787-10,Etihad Airways
+180,VN-A398,Airbus A321,Airbus,A321,Vietnam
+181,9M-LCF,Boeing 737-800,Boeing,737-800,Malindo Air
+182,9M-MTJ,Airbus A330-300,Airbus,A330-300,Malaysia
+183,9V-SKU,Airbus A380,Airbus,A380,Singapore
+184,VT-EXT,Airbus A320,Airbus,A320,Air India
+185,VT-YBD,Boeing 737,Boeing,737,Starlight Airline
+186,VT-IMX,Airbus A320,Airbus,A320,IndiGo
+187,HS-LUP,Boeing 737-800,Boeing,737-800,Thai Lion Air
+188,HB-JHI,Airbus A330,Airbus,A330,SWISS
+189,VN-A532,Airbus A321,Airbus,A321,VietJetAir
+190,HS-VKF,Airbus A320,Airbus,A320,Thai Vietjet Air
+191,VT-TVC,Airbus A321 NEO,Airbus,A321,Air India
+192,VT-IIH,Airbus A320 NEO,Airbus,A320,IndiGo
+193,VT-IVX,Airbus A320 NEO,Airbus,A320,IndiGo
+194,F-HUVN,Airbus A350-900,Airbus,A350-900,Air France
+195,B-KQN,Boeing 777,Boeing,777,Cathay Pacific
+196,D-AIVC,Airbus A350,Airbus,A350,Lufthansa
+197,G-ZBKD,Boeing 787-9,Boeing,787-9,British
+198,VT-ALX,Boeing 777,Boeing,777,Air India
+199,VT-ISQ,Airbus A320 NEO,Airbus,A320,IndiGo
+200,HS-DBP,Boeing 737-800,Boeing,737-800,Nok Air
+201,PH-BQK,Boeing 777,Boeing,777,KLM
+202,VT-ICD,Airbus A320,Airbus,A320,IndiGo
+203,HS-TXL,Airbus A320 (Sharklets),Airbus,A320,Thai Airways International
+204,D-AIFD,Airbus A340,Airbus,A340,Lufthansa
+205,9K-API,Airbus A330,Airbus,A330,Kuwait
+206,VT-ITL,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+207,HZ-NS36,Airbus A320 NEO,Airbus,A320,flynas
+208,G-VPRD,Airbus A350,Airbus,A350,Virgin Atlantic
+209,VT-CID,Airbus A320,Airbus,A320,Air India
+210,A6-EEW,Airbus A380,Airbus,A380,Emirates
+211,VT-IZV,Airbus A320 NEO,Airbus,A320,IndiGo
+212,VT-IIN,Airbus A320 NEO,Airbus,A320,IndiGo
+213,A6-ANQ,Airbus A320 (Sharklets),Airbus,A320,Air Arabia
+214,A6-ETS,Boeing 777,Boeing,777,Etihad
+215,VT-AEQ,Boeing 777-300,Boeing,777-300,Air India
+216,YI-ARB,Airbus A320,Airbus,A320,I A W
+217,VT-EXV,Airbus A320,Airbus,A320,Air India
+218,A6-FKQ,Boeing 737 MAX 8,Boeing,737,flydubai
+219,VT-TYB,Airbus A320 NEO,Airbus,A320,Air India
+220,VT-PPQ,Airbus A321,Airbus,A321,Air India
+221,VT-SCQ,Airbus A319,Airbus,A319,Air India
+222,VT-TVF,Airbus A320 NEO,Airbus,A320,Air India
+223,VT-IMY,Airbus A320,Airbus,A320,IndiGo
+224,VT-IIJ,Airbus A320 NEO,Airbus,A320,IndiGo
+225,VT-IIM,Airbus A320 NEO,Airbus,A320,IndiGo
+226,A9C-NA,Airbus A321 NEO,Airbus,A321,Gulf Air
+227,VT-RTV,Airbus A320 NEO,Airbus,A320,Air India
+228,VT-RTS,Airbus A320 NEO,Airbus,A320,Air India
+229,VT-PPL,Airbus A321,Airbus,A321,Air India
+230,VT-TNZ,Airbus A320 NEO,Airbus,A320,Air India
+231,VT-SLG,Boeing 737-800,Boeing,737-800,SpiceJet
+232,VT-TQA,Airbus A320 NEO,Airbus,A320,Air India
+233,9K-AKQ,Airbus A320 NEO,Airbus,A320,Kuwait
+234,VT-ICS,Airbus A320,Airbus,A320,IndiGo
+235,VT-AIU,ATR 72,ATR,72,Alliance Air
+236,VT-EXQ,Airbus A320 (Sharklets),Airbus,A320,Air India
+237,VT-TQP,Airbus A320 NEO,Airbus,A320,Air India
+238,TC-MKC,Boeing 737 MAX 8,Boeing,737,IndiGo
+239,A6-EGI,Boeing 777-300,Boeing,777-300,Emirates
+240,VT-SYZ,Boeing 737-800,Boeing,737-800,SpiceJet
+241,VT-IBQ,Airbus A320,Airbus,A320,IndiGo
+242,9H-TJF,Boeing 737-800,Boeing,737-800,SpiceJet
+243,VT-SCF,Airbus A319,Airbus,A319,Air India
+244,VT-PPH,Airbus A321,Airbus,A321,Air India
+245,VT-TNX,Airbus A320 NEO,Airbus,A320,Air India
+246,VT-TQN,Airbus A320 NEO,Airbus,A320,Air India
+247,VT-TVA,Airbus A321,Airbus,A321,Vistara
+248,VT-EXJ,Airbus A321 (Sharklets),Airbus,A321,Air India
+249,VT-AEG,Boeing 777-200LR,Boeing,777-200LR,Air India
+250,VT-ISP,Airbus A320 NEO,Airbus,A320,IndiGo
+251,A4O-OVE,Airbus A320 NEO,Airbus,A320,SalamAir
+252,A4O-BK,Boeing 737-900,Boeing,737-900,Oman Air
+253,A6-EIS,Airbus A320 (Sharklets),Airbus,A320,Etihad
+254,VT-ICG,Airbus A321 NEO,Airbus,A321,IndiGo
+255,VT-IZD,Airbus A320 NEO,Airbus,A320,IndiGo
+256,VT-BXT,Boeing 737 MAX 8,Boeing,737,Air India Express
+257,VT-SLP,Boeing 737-700,Boeing,737-700,SpiceJet
+258,YL-LDX,Airbus A320,Airbus,A320,IndiGo
+259,VT-TQH,Airbus A320 NEO,Airbus,A320,Air India
+260,YL-LDN,Airbus A320,Airbus,A320,IndiGo
+261,VT-ICL,Airbus A321 NEO,Airbus,A321,IndiGo
+262,VT-ITU,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+263,VT-RKJ,ATR 72,ATR,72,Alliance Air
+264,VT-IYU,ATR 72,ATR,72,IndiGo
+265,VT-IFK,Airbus A320,Airbus,A320,IndiGo
+266,VT-YAP,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+267,VT-ISA,Airbus A320 NEO,Airbus,A320,IndiGo
+268,VT-BXV,Boeing 737 MAX 8,Boeing,737,Air India Express
+269,VT-ATF,Airbus A320,Airbus,A320,Air India Express
+270,VT-IJU,Airbus A320 NEO,Airbus,A320,IndiGo
+271,A6-ECG,Boeing 777-300,Boeing,777-300,Emirates
+272,VT-IBL,Airbus A321 NEO,Airbus,A321,IndiGo
+273,VT-IQA,Airbus A320 NEO,Airbus,A320,IndiGo
+274,VT-RTO,Airbus A320 NEO,Airbus,A320,Air India Express
+275,VT-ISU,Airbus A320 NEO,Airbus,A320,IndiGo
+276,VT-ICP,Airbus A321 NEO,Airbus,A321,IndiGo
+277,VT-IXA,Airbus A320 NEO,Airbus,A320,IndiGo
+278,VT-IJQ,Airbus A320 NEO,Airbus,A320,IndiGo
+279,VT-IXM,Airbus A320 NEO,Airbus,A320,IndiGo
+280,VT-IUO,Airbus A321 NEO,Airbus,A321,IndiGo
+281,VT-IPL,Airbus A320 NEO,Airbus,A320,IndiGo
+282,A6-AEO,Airbus A321 NEO,Airbus,A321,Etihad
+283,VT-ILC,Airbus A321 NEO,Airbus,A321,IndiGo
+284,VT-YAD,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+285,VT-TQK,Airbus A320 NEO,Airbus,A320,Air India
+286,VT-ILL,Airbus A321 NEO,Airbus,A321,IndiGo
+287,VT-BWF,Boeing 737 MAX 8,Boeing,737,Air India Express
+288,VT-IVE,Airbus A320 NEO,Airbus,A320,IndiGo
+289,VT-IBE,Airbus A321 NEO,Airbus,A321,IndiGo
+290,A9C-AD,Airbus A320,Airbus,A320,Gulf Air
+291,VT-BWD,Boeing 737 MAX 8,Boeing,737,Air India Express
+292,VT-IMG,Airbus A321 NEO,Airbus,A321,IndiGo
+293,VT-IVY,Airbus A320 NEO,Airbus,A320,IndiGo
+294,4R-ANA,Airbus A321 (Sharklets),Airbus,A321,SriLankan
+295,VT-IMM,Airbus A321 NEO,Airbus,A321,IndiGo
+296,9V-SHT,Airbus A350-900,Airbus,A350-900,Singapore
+297,VT-EXE,Airbus A320,Airbus,A320,Air India Express
+298,HS-ABW,Airbus A320,Airbus,A320,Thai AirAsia
+299,9M-RAJ,Airbus A320,Airbus,A320,AirAsia
+300,HS-THD,Airbus A350-900,Airbus,A350-900,Thai  International
+301,HS-LUZ,Boeing 737-800,Boeing,737-800,Thai Lion Air
+302,VT-TNQ,Airbus A320 (Sharklets),Airbus,A320,Air India
+303,9M-MVE,Boeing 737 MAX 8,Boeing,737,Malaysia
+304,VT-IMH,Airbus A321 NEO,Airbus,A321,IndiGo
+305,VT-ICQ,Airbus A321,Airbus,A321,IndiGo
+306,VT-IJT,Airbus A320 NEO,Airbus,A320,IndiGo
+307,VT-IXJ,Airbus A320 NEO,Airbus,A320,IndiGo
+308,B-LRN,Airbus A350-900,Airbus,A350-900,Cathay Pacific
+309,F-HTYF,Airbus A350-900,Airbus,A350-900,Air France
+310,D-AIXS,Airbus A350-900,Airbus,A350-900,Lufthansa
+311,ET-AZA,Boeing 737,Boeing,737,Ethiopian
+312,VT-ILF,Airbus A321 NEO,Airbus,A321,IndiGo
+313,JA840J,Boeing 787-8,Boeing,787-8,Japan Airlines
+314,4R-ABN,Airbus A320,Airbus,A320,SriLankan
+315,D-ABVU,Boeing 747-400,Boeing,747-400,Lufthansa
+316,VT-IAO,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+317,A7-BSF,Boeing 737 MAX 8,Boeing,737,IndiGo
+318,A7-BAM,Boeing 777-300,Boeing,777-300,Qatar
+319,VT-IIZ,Airbus A320 NEO,Airbus,A320,IndiGo
+320,A6-ABM,Airbus A320,Airbus,A320,Air Arabia
+321,A6-AEP,Airbus A321 NEO,Airbus,A321,Etihad
+322,A6-EVM,Airbus A380-800,Airbus,A380-800,Emirates
+323,VT-IFZ,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+324,YL-LDT,Airbus A320,Airbus,A320,IndiGo
+325,VT-BXD,Boeing 737 MAX 8,Boeing,737,Air India Express
+326,VT-YAV,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+327,VT-BXQ,Boeing 737 MAX 8,Boeing,737,Air India Express
+328,VT-ITV,Airbus A320 NEO,Airbus,A320,IndiGo
+329,VT-IIB,Airbus A320 NEO,Airbus,A320,IndiGo
+330,VT-BXW,Boeing 737 MAX 8,Boeing,737,Air India Express
+331,VT-IIA,Airbus A320 NEO,Airbus,A320,IndiGo
+332,9K-AKM,Airbus A320 NEO,Airbus,A320,Kuwait
+333,VT-EXA,Airbus A320 (Sharklets),Airbus,A320,Air India Express
+334,VT-BKK,Airbus A320,Airbus,A320,Air India Express
+335,YL-LDF,Airbus A320,Airbus,A320,IndiGo
+336,VT-TYE,Airbus A320 NEO,Airbus,A320,Air India
+337,VT-JPR,Airbus A320,Airbus,A320,Air India Express
+338,G-VMAP,Boeing 787-9,Boeing,787-9,Virgin Atlantic
+339,VT-BWH,Boeing 737 MAX 8,Boeing,737,Air India Express
+340,VT-SCV,Airbus A319,Airbus,A319,Air India
+341,A9C-CC,Airbus A321,Airbus,A321,Gulf Air
+342,YL-LDU,Airbus A320,Airbus,A320,IndiGo
+343,VT-IIY,Airbus A320 NEO,Airbus,A320,IndiGo
+344,VT-YAJ,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+345,VT-IXS,ATR 72,ATR,72,IndiGo
+346,VT-IYR,ATR 72,ATR,72,IndiGo
+347,VT-ISR,Airbus A320 NEO,Airbus,A320,IndiGo
+348,VT-IRB,ATR 72,ATR,72,IndiGo
+349,VT-IRL,ATR 72,ATR,72,IndiGo
+350,VT-YAU,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+351,VT-IYF,ATR 72,ATR,72,IndiGo
+352,VT-YAR,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+353,VT-IMB,Airbus A321 NEO,Airbus,A321,IndiGo
+354,VT-IFV,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+355,VT-YAM,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+356,YL-LDW,Airbus A320,Airbus,A320,IndiGo
+357,VT-IYG,ATR 72,ATR,72,IndiGo
+358,YL-LDD,Airbus A320,Airbus,A320,IndiGo
+359,VT-IMP,Airbus A320,Airbus,A320,Air India Express
+360,VT-EXB,Airbus A320,Airbus,A320,Air India Express
+361,G-YMMJ,Boeing 777-200,Boeing,777-200,British
+362,VT-RTP,Airbus A320 NEO,Airbus,A320,Air India Express
+363,VT-ILN,Airbus A321 NEO,Airbus,A321,IndiGo
+364,VT-IRJ,ATR 72,ATR,72,IndiGo
+365,VT-BXN,Boeing 737 MAX 8,Boeing,737,Air India Express
+366,VT-IIF,Airbus A320 NEO,Airbus,A320,IndiGo
+367,VT-GSU,Embraer 175,Embraer,175,Shuttle America
+368,VT-YBB,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+369,VT-IYS,ATR 72,ATR,72,IndiGo
+370,VT-YAA,Boeing 737 MAX 8,Boeing,737,Starlight Airline
+371,VT-VTZ,Airbus A320,Airbus,A320,Air India Express
+372,VT-IZC,Airbus A320,Airbus,A320,IndiGo
+373,VT-IIW,Airbus A320 NEO,Airbus,A320,IndiGo
+374,VT-IXR,Airbus A320,Airbus,A320,Air India Express
+375,VT-EXC,Airbus A320,Airbus,A320,Air India Express
+376,VT-ATG,Airbus A320 NEO,Airbus,A320,Air India Express
+377,VT-RTH,Airbus A320 NEO,Airbus,A320,Air India Express
+378,VT-YAF,Boeing 737,Boeing,737,Starlight Airline
+379,VT-IWM,Airbus A321 NEO,Airbus,A321,IndiGo
+380,VT-IMJ,Airbus A321 NEO,Airbus,A321,IndiGo
+381,A9C-CE,Airbus A321,Airbus,A321,Gulf Air
+382,VT-BWU,Boeing 737 MAX 8,Boeing,737,Air India Express
+383,A6-ECQ,Boeing 777-300,Boeing,777-300,Emirates
+384,VT-ILI,Airbus A321 NEO,Airbus,A321,IndiGo
+385,VT-BWG,Boeing 737 MAX 8,Boeing,737,Air India Express
+386,VT-ITR,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+387,9V-SCG,Boeing 787-10,Boeing,787-10,Singapore
+388,HS-BBQ,Airbus A320,Airbus,A320,Thai AirAsia
+389,9M-MXD,Boeing 737-800,Boeing,737-800,Malaysia
+390,9V-OFB,Boeing 787-8,Boeing,787-8,Scoot
+391,VT-PPK,Airbus A321,Airbus,A321,Air India
+392,HS-TQB,Boeing 787-8,Boeing,787-8,Thai Airways International
+393,ET-AWG,Boeing 737-800,Boeing,737-800,Ethiopian
+394,A6-EPG,Boeing 777,Boeing,777,Emirates
+395,A6-EJA,Airbus A320,Airbus,A320,Etihad
+396,V8-RBE,Airbus A320 (Sharklets),Airbus,A320,Royal Brunei
+397,VT-GHC,Boeing 737-800,Boeing,737-800,Air India Express
+398,A6-AUA,Airbus A320,Airbus,A320,Air Arabia Abu Dhabi
+399,VT-BWA,Boeing 737 MAX 8,Boeing,737,Air India Express
+400,G-ZBJC,Boeing 787-8,Boeing,787-8,British
+401,VT-IMC,Airbus A321 NEO,Airbus,A321,IndiGo
+402,TC-COH,Boeing 737-800,Boeing,737-800,IndiGo
+403,HS-CBG,Airbus A320,Airbus,A320,Thai AirAsia
+404,VT-IAN,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+405,B-LAZ,Airbus A330-300,Airbus,A330-300,Cathay Pacific
+406,VT-IFP,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+407,VT-ATH,Airbus A320 NEO,Airbus,A320,Air India Express
+408,VT-EXH,Airbus A320,Airbus,A320,Air India
+409,VT-IAX,Airbus A320 NEO,Airbus,A320,IndiGo
+410,VT-BXU,Boeing 737 MAX 8,Boeing,737,Air India Express
+411,A4O-BAE,Boeing 737-800,Boeing,737-800,Oman Air
+412,VT-IIK,Airbus A320 NEO,Airbus,A320,IndiGo
+413,VT-ISC,Airbus A320 NEO,Airbus,A320,IndiGo
+414,VT-ISJ,Airbus A320 NEO,Airbus,A320,IndiGo
+415,VT-ILW,Airbus A321 NEO,Airbus,A321,IndiGo
+416,VT-ITI,Airbus A320 NEO,Airbus,A320,IndiGo
+417,A6-BNA,Boeing 787-9,Boeing,787-9,Etihad Airways
+418,A6-EGW,Boeing 777-300,Boeing,777-300,Emirates
+419,VT-IUK,Airbus A321 NEO,Airbus,A321,IndiGo
+420,VT-ILR,Airbus A321 NEO,Airbus,A321,IndiGo
+421,VT-ISY,Airbus A320 NEO,Airbus,A320,IndiGo
+422,9V-SHN,Airbus A350-900,Airbus,A350-900,Singapore
+423,HS-BBI,Airbus A320 (Sharklets),Airbus,A320,Thai AirAsia
+424,VT-BXX,Boeing 737 MAX 8,Boeing,737,Air India Express
+425,9M-AJG,Airbus A320 (Sharklets),Airbus,A320,AirAsia
+426,HS-DBX,Boeing 737-800,Boeing,737-800,Nok Air
+427,VT-IML,Airbus A321 NEO,Airbus,A321,IndiGo
+428,HS-TJW,Boeing 777-200,Boeing,777-200,Thai  International
+429,HZ-AQH,Airbus A330-300,Airbus,A330-300,Saudi Arabian
+430,A6-FKI,Boeing 737 MAX 8,Boeing,737,flydubai
+431,A6-BLQ,Boeing 787-9,Boeing,787-9,Etihad
+432,A6-AOW,Airbus A320,Airbus,A320,Air Arabia
+433,A6-EPE,Boeing 777,Boeing,777,Emirates
+434,VT-IXZ,ATR 72,ATR,72,IndiGo
+435,VT-ISN,Airbus A320 NEO,Airbus,A320,IndiGo
+436,VT-BXZ,Boeing 737 MAX 8,Boeing,737,Air India Express
+437,VT-IIS,Airbus A320 NEO,Airbus,A320,IndiGo
+438,VT-ITO,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+439,VT-IIO,Airbus A320 NEO,Airbus,A320,IndiGo
+440,A9C-CF,Airbus A321,Airbus,A321,Gulf Air
+441,VT-IYL,ATR 72,ATR,72,IndiGo
+442,VT-IST,Airbus A320 NEO,Airbus,A320,IndiGo
+443,VT-BXC,Boeing 737,Boeing,737,Air India Express
+444,VT-IID,Airbus A320 NEO,Airbus,A320,IndiGo
+445,G-YMMK,Boeing 777-200,Boeing,777-200,British Airways
+446,VT-AIX,ATR 72,ATR,72,Alliance Air
+447,VT-IYJ,ATR 72,ATR,72,IndiGo
+448,VT-IYK,ATR 72,ATR,72,IndiGo
+449,VT-IYY,ATR 72,ATR,72,IndiGo
+450,VT-IRD,ATR 72,ATR,72,IndiGo
+451,VT-IYO,ATR 72,ATR,72,IndiGo
+452,VT-ITZ,Airbus A320 NEO,Airbus,A320,IndiGo
+453,VT-TNR,Airbus A321 (Sharklets),Airbus,A321,Air India
+454,VT-IUF,Airbus A321 NEO,Airbus,A321,IndiGo
+455,VT-IZH,Airbus A320 NEO,Airbus,A320,IndiGo
+456,VT-IFR,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+457,VT-ISM,Airbus A320 NEO,Airbus,A320,IndiGo
+458,A6-EIY,Airbus A320 (Sharklets),Airbus,A320,Etihad
+459,VT-IVA,Airbus A320 NEO,Airbus,A320,IndiGo
+460,9V-MBJ,Boeing 737-800,Boeing,737-800,Singapore
+461,HS-BBB,Airbus A320,Airbus,A320,Thai AirAsia
+462,VT-IJY,Airbus A320 NEO,Airbus,A320,IndiGo
+463,A6-FKP,Boeing 737,Boeing,737,flydubai
+464,HS-TXK,Airbus A320 (Sharklets),Airbus,A320,Thai Airways International
+465,VT-ISL,Airbus A320 NEO,Airbus,A320,IndiGo
+466,HS-LGL,Boeing 737-800,Boeing,737-800,Thai Lion Air
+467,A6-EIT,Airbus A320 (Sharklets),Airbus,A320,Etihad
+468,VT-SCM,Airbus A319,Airbus,A319,Air India
+469,VT-IYD,ATR 72,ATR,72,IndiGo
+470,VT-IZE,Airbus A320,Airbus,A320,IndiGo
+471,VT-RKC,ATR 72,ATR,72,Alliance Air
+472,VT-BOM,Airbus A320,Airbus,A320,Air India Express
+473,A5-DOR,Airbus A319,Airbus,A319,Bhutan
+474,VT-IVB,Airbus A320 NEO,Airbus,A320,IndiGo
+475,VT-IIQ,Airbus A320 NEO,Airbus,A320,IndiGo
+476,A6-EIH,Airbus A320,Airbus,A320,Etihad
+477,9V-SHM,Airbus A350-900,Airbus,A350-900,Singapore
+478,9M-AGA,Airbus A320 (Sharklets),Airbus,A320,AirAsia
+479,VT-IAR,Airbus A320,Airbus,A320,IndiGo
+480,VN-A676,Airbus A320,Airbus,A320,VietJetAir
+481,VN-A699,Airbus A320,Airbus,A320,VietJetAir
+482,HS-TXE,Airbus A320,Airbus,A320,Thai  International
+483,A7-AHC,Airbus A320,Airbus,A320,Qatar
+484,9K-AKL,Airbus A320 NEO,Airbus,A320,Kuwait
+485,A6-EIX,Airbus A320 (Sharklets),Airbus,A320,Etihad
+486,VT-IYB,ATR 72,ATR,72,IndiGo
+487,9K-CBB,Airbus A321 (Sharklets),Airbus,A321,Jazeera
+488,VT-ISV,Airbus A320 NEO,Airbus,A320,IndiGo
+489,VT-SLM,Boeing 737-800,Boeing,737-800,SpiceJet
+490,VT-BDM,Boeing 757-200,Boeing,757-200,Blue Dart Aviation
+491,VT-AXR,Boeing 737-800,Boeing,737-800,Air India Express
+492,A6-AEF,Airbus A321,Airbus,A321,Etihad
+493,9V-MBL,Boeing 737 MAX 8,Boeing,737,Singapore
+494,VT-EXF,Airbus A321 (Sharklets),Airbus,A321,Air India
+495,HS-CBB,Airbus A320 (Sharklets),Airbus,A320,Thai AirAsia
+496,9M-AJE,Airbus A320 (Sharklets),Airbus,A320,AirAsia
+497,VN-A650,Airbus A320,Airbus,A320,VietJetAir
+498,9M-LNV,Boeing 737-800,Boeing,737-800,Malindo Air
+499,HS-TXO,Airbus A320,Airbus,A320,Thai  International
+500,VT-EXK,Airbus A320 (Sharklets),Airbus,A320,Air India
+501,9V-MBA,Boeing 737,Boeing,737,Singapore
+502,9K-AKR,Airbus A320 NEO,Airbus,A320,Kuwait
+503,A6-AUK,Airbus A320,Airbus,A320,Air Arabia Abu Dhabi
+504,A9C-AF,Airbus A320,Airbus,A320,Gulf Air
+505,VT-IVZ,Airbus A320 NEO,Airbus,A320,IndiGo
+506,VT-AXW,Boeing 737-800,Boeing,737-800,Air India Express
+507,A6-AEE,Airbus A321,Airbus,A321,Etihad Airways
+508,VT-AXQ,Boeing 737-800,Boeing,737-800,Air India Express
+509,A6-FKO,Boeing 737,Boeing,737,flydubai
+510,VT-AYC,Boeing 737-800,Boeing,737-800,Air India Express
+511,VT-GHI,Boeing 737-800,Boeing,737-800,Air India Express
+512,9K-APF,Airbus A330,Airbus,A330,Kuwait
+513,A9C-CD,Airbus A321,Airbus,A321,Gulf Air
+514,VT-AXX,Boeing 737-800,Boeing,737-800,Air India Express
+515,A9C-XA,Airbus A321 NEO,Airbus,A321,Gulf Air
+516,VT-IIL,Airbus A320 NEO,Airbus,A320,IndiGo
+517,VT-IAQ,Airbus A320 (Sharklets),Airbus,A320,IndiGo
+518,VT-IPC,Airbus A320 NEO,Airbus,A320,IndiGo
+519,VT-YAQ,Boeing 737,Boeing,737,Starlight Airline
+520,HS-BBY,Airbus A320 (Sharklets),Airbus,A320,Thai AirAsia
+521,VT-IKP,Airbus A320,Airbus,A320,IndiGo
+522,VT-KTM,Airbus A320,Airbus,A320,Air India Express
+523,A6-EIP,Airbus A320,Airbus,A320,Etihad
+524,VT-GHF,Boeing 737-800,Boeing,737-800,Air India Express
+525,9V-TRO,Airbus A320,Airbus,A320,Scoot
+526,9K-AKT,Airbus A320 NEO,Airbus,A320,Kuwait
+527,A9C-AE,Airbus A320,Airbus,A320,Gulf Air
+528,9M-AGH,Airbus A320,Airbus,A320,AirAsia

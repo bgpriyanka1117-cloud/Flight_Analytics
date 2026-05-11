@@ -1,0 +1,16 @@
+icao_code,iata_code,name,city,country,continent,latitude,longitude,timezone
+VIDP,DEL,New Delhi Indira Gandhi,New Delhi,India,Asia,28.5665,77.1031,Asia/Kolkata
+VABB,BOM,Mumbai Chhatrapati Shivaji,Mumbai,India,Asia,19.0887,72.8679,Asia/Kolkata
+VOBL,BLR,Bangalore Bengaluru,Bangalore,India,Asia,13.197899,77.7063,Asia/Kolkata
+VOMM,MAA,Chennai,Chennai,India,Asia,12.990005,80.1693,Asia/Kolkata
+VOHS,HYD,Hyderabad Rajiv Gandhi,Hyderabad,India,Asia,17.231318,78.429855,Asia/Kolkata
+VECC,CCU,Kolkata Netaji Subhash Chandra Bose,Kolkata,India,Asia,22.6547,88.4467,Asia/Kolkata
+VAAH,AMD,Ahmedabad Sardar Vallabhbhai Patel,Ahmedabad,India,Asia,23.0772,72.6347,Asia/Kolkata
+VOCI,COK,Kochi Cochin,Kochi,India,Asia,10.152,76.4019,Asia/Kolkata
+VOGO,GOI,Vasco da Gama Dabolim,Vasco da Gama,India,Asia,15.3808,73.8314,Asia/Kolkata
+VAPO,PNQ,Pune,Pune,India,Asia,18.5821,73.9197,Asia/Kolkata
+VILK,LKO,Lucknow Chaudhary Charan Singh,Lucknow,India,Asia,26.7606,80.8893,Asia/Kolkata
+VEPT,PAT,Patna Lok Nayak Jayaprakash,Patna,India,Asia,25.5913,85.088,Asia/Kolkata
+VICG,IXC,Chandigarh,Chandigarh,India,Asia,30.6735,76.7885,Asia/Kolkata
+VOTV,TRV,Trivandrum,Trivandrum,India,Asia,8.482119,76.9201,Asia/Kolkata
+VOMD,IXM,Madurai,Madurai,India,Asia,9.834509,78.0934,Asia/Kolkata
